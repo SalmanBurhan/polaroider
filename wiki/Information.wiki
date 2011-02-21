@@ -1,0 +1,9 @@
+#Information about the PHP class
+
+= Introduction =
+
+This class is a fork of the http://sivel.net code: [http://code.google.com/p/mattmartz/source/browse/trunk/polaroid-on-the-fly/gen-polaroid.php?r=16]
+
+
+= Changes =
+Had poblems with the imagerotate-function, so added a passthoug to imagekagik. En result is anti-aliased transparent png-images.
